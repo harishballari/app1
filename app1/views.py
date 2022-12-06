@@ -10,3 +10,7 @@ def course(request):
     json_data = JSONRenderer().render(seri.data)
     return HttpResponse(json_data,content_type ='application/json')
 
+
+
+    Thank you ra yesu raju 
+
